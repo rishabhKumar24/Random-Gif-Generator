@@ -1,12 +1,16 @@
-# React + Vite
+🎲 Random GIF Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Random GIF Generator is a fun and interactive project built with React ⚛️. It allows users to instantly generate and view random GIFs fetched from the GIPHY API 🌐. With just a click, users get a fresh and entertaining GIF every time!
 
-Currently, two official plugins are available:
+✨ Features:
+🔄 Generate Random GIFs with a single click
+📝 (Optional) Search for GIFs by keyword to find what you like
+🌐 Powered by the GIPHY API for unlimited content
+🪝 Uses React Hooks (useState, useEffect) to manage state and API calls
+🎨 Clean and responsive UI for a smooth experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack:
+⚛️ React – For building the user interface
+🪝 React Hooks – For state (useState) and side effects (useEffect)
+🎨 Tailwind CSS – For modern, responsive styling (if you used it)
+🌐 GIPHY API – For fetching random GIFs
